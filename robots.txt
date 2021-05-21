@@ -1,0 +1,5 @@
+# All Search Engine
+User-agent: *
+Allow: *
+
+Sitemap: http://iamsrujal.com/sitemap.xml
