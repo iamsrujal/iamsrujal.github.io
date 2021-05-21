@@ -318,7 +318,7 @@
     $("#download-spinner").show();
     setTimeout(() => {
       $("#download-spinner").hide();
-    }, 10000);
+    }, 3000);
   });
 
   // Window On Scroll
