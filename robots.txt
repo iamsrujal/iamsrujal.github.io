@@ -2,4 +2,4 @@
 User-agent: *
 Allow: *
 
-Sitemap: http://iamsrujal.com/sitemap.xml
+Sitemap: http://iamsrujal.github.io/sitemap.xml
