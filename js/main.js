@@ -82,7 +82,8 @@
     completedCounting: 0,
     count: function () {
       $(".single-grouping-skill .single-skill").each(function () {
-        var skillPercent = $(this).find(".percentage").data("percent");
+        // var skillPercent = $(this).find(".percentage").data("percent");
+        var skillPercent = 100;
         $(this).find(".percentage").countTo({
           from: 0,
           to: skillPercent,
