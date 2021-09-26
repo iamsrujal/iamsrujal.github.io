@@ -17,7 +17,7 @@
     }
 
     // set predefine data
-    var startYearNumber = new Date("01-01-2020").getFullYear();
+    var startYearNumber = new Date(2020,01,01).getFullYear();
     var endYearNumber = new Date().getFullYear();
     var yearNumber = (endYearNumber - startYearNumber) + 2;
     document.getElementById("yearNumber").setAttribute('data-value', yearNumber);
